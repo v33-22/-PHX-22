@@ -1,2 +1,2 @@
-# -PHX-22
+# Aphrodite
 My Discord bot!

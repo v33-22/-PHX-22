@@ -1,13 +1,14 @@
 {
-  "name": "phx-22",
+  "name": "aphrodite",
   "version": "1.0.0",
-  "description": "PHX-22 Discord Bot",
+  "description": "Aphrodite Discord Bot - marriage, tickets, moods, AFK, personality system",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.21.0"
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
   }
 }
